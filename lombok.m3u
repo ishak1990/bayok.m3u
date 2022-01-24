@@ -1,6 +1,3 @@
-#EXTM3U
-#NASIONAL#
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Dimas Kay Channel
 https://archive.org/download/MurotalMR/055.mp3
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Dukung Kami Dengan Subscribe
@@ -9,16 +6,16 @@ https://archive.org/download/MurotalMR/055.mp3
 http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg",TRANS TV
 http://210.210.155.35/qwr9ew/s/s05/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/TRANS-7.jpg"group-title="NASIONAL",  TRANS7
-http://210.210.155.35:80/uq2663/h/h11/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/TRANS-7.jpg"group-title="NASIONAL",TRANS7
+https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/NET-TV.jpg"group-title="NASIONAL",NET TV
-http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+https://cubmu.superzap.xyz:8279/net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="NASIONAL",GTV
 https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
 #EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/INDOSIAR.jpg"group-title="NASIONAL",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/SCTV.jpg"group-title="NASIONAL",SCTV
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/16
+https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="NASIONAL",RCTI
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="NASIONAL",MNC TV
@@ -27,6 +24,7 @@ https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
 https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png",TVONE
 http://nonton.wap.sh/id/010.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/CNN-INDONESIA.jpg"group-title="NASIONAL",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF:-1 group-title="NASIONAL",ELSHINTA
@@ -703,58 +701,51 @@ http://203.162.235.41:16924/
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/B2R8y0c/dr.jpg",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Dimas Kay Channel
-https://archive.org/download/MurotalMR/055.mp3
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Dukung Kami Dengan Subscribe
-https://archive.org/download/MurotalMR/055.mp3
-#EXTINF:-1 group-title="SPORTS 2",Adventure sport
+#EXTINF:-1 group-title="SPORTS",Adventure sport
 https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2",FightBox
+#EXTINF:-1 group-title="SPORTS",FightBox
 https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
-#EXTINF:-1 group-title="SPORTS 2",ATG
+#EXTINF:-1 group-title="SPORTS",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="SPORTS 2",Oman Sport
+#EXTINF:-1 group-title="SPORTS",Oman Sport
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 2 Brasil
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 3 Brasil
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 3 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 4 Brasil
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS 2",MOTOR SPORT
+#EXTINF:-1 group-title="SPORTS",MOTOR SPORT
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="SPORTS 2",ASSP
+#EXTINF:-1 group-title="SPORTS",ASSP
 http://goldentv.tech:25461/rachman/rachman/25011
-#EXTINF:-1 group-title="SPORTS 2",ASSP 3
+#EXTINF:-1 group-title="SPORTS",ASSP 3
 http://goldentv.tech:25461/rachman/rachman/25012
-#EXTINF:-1 group-title="SPORTS 2",ASSP 4
+#EXTINF:-1 group-title="SPORTS",ASSP 4
 http://goldentv.tech:25461/rachman/rachman/25015
-#EXTINF:-1 group-title="SPORTS 2",Spo TV 1
+#EXTINF:-1 group-title="SPORTS",SpoTV 1
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/59
-#EXTINF:-1 group-title="SPORTS 2",SpoTV 2
+#EXTINF:-1 group-title="SPORTS",SpoTV 2
 http://goldentv.tech:25461/rachman/rachman/26155
-#EXTINF:-1 group-title="SPORTS 2",Euro Sport 1
+#EXTINF:-1 group-title="SPORTS",Euro Sport 1
 http://goldentv.tech:25461/rachman/rachman/38193
-#EXTINF:-1 group-title="SPORTS 2",Euro Sport 2
+#EXTINF:-1 group-title="SPORTS",Euro Sport 2
 http://goldentv.tech:25461/rachman/rachman/38194
-#EXTINF:-1 group-title="SPORTS 2",Premier Football 1
+#EXTINF:-1 group-title="SPORTS",Premier Football 1
 http://goldentv.tech:25461/rachman/rachman/38198
-#EXTINF:-1 group-title="SPORTS 2",Premier Football 2
+#EXTINF:-1 group-title="SPORTS",Premier Football 2
 http://goldentv.tech:25461/rachman/rachman/38199
-#EXTINF:-1 group-title="SPORTS 2",Premier Football 3
+#EXTINF:-1 group-title="SPORTS",Premier Football 3
 http://goldentv.tech:25461/rachman/rachman/38200
-#EXTINF:-1 group-title="SPORTS 2",Premier Football 4
+#EXTINF:-1 group-title="SPORTS",Premier Football 4
 http://goldentv.tech:25461/rachman/rachman/38201
-#EXTINF:-1 group-title="SPORTS 2",TRUESPORTS 1
+#EXTINF:-1 group-title="SPORTS",TRUESPORTS 1
 http://goldentv.tech:25461/rachman/rachman/38207
-#EXTINF:-1 group-title="SPORTS 2",TRUESPORTS 2
+#EXTINF:-1 group-title="SPORTS",TRUESPORTS 2
 http://goldentv.tech:25461/rachman/rachman/38208
-#EXTINF:-1 group-title="SPORTS 2",TRUESPORTS 3
+#EXTINF:-1 group-title="SPORTS",TRUESPORTS 3
 http://goldentv.tech:25461/rachman/rachman/38209
-#EXTINF:-1 group-title="SPORTS 2",TRUESPORTS 4
+#EXTINF:-1 group-title="SPORTS",TRUESPORTS 4
 http://goldentv.tech:25461/rachman/rachman/38210
 
 
@@ -770,11 +761,11 @@ http://goldentv.tech:25461/rachman/rachman/25226
 http://goldentv.tech:25461/rachman/rachman/25242
 #EXTINF:-1 group-title="SPORTS 3",Look Sport 3
 http://goldentv.tech:25461/rachman/rachman/25253
-#EXTINF:-1 group-title="SPORTS 3",CCTV 5+
+#EXTINF:-1 group-title="SPORTS 3",CCTV 5+ (UCL)
 http://goldentv.tech:25461/rachman/rachman/25040
 #EXTINF:-1 group-title="SPORTS 3",CCTV 5
 http://goldentv.tech:25461/rachman/rachman/25041
-#EXTINF:-1 group-title="SPORTS 3",Armenia TV 
+#EXTINF:-1 group-title="SPORTS 3",Armenia TV (UCL)
 http://goldentv.tech:25461/rachman/rachman/25042
 #EXTINF:-1 group-title="SPORTS 3",TV 5 Sport
 http://goldentv.tech:25461/rachman/rachman/25044
@@ -827,7 +818,7 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9131
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 2
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9132
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 3
-http://2022tv.co:80/george/george/20998
+
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="BEIN SPORTS",BEIN SPORTS 1
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/307
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png" group-title="BEIN SPORTS",BEIN SPORTS 2
